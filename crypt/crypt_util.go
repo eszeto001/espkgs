@@ -1,4 +1,5 @@
 package crypt
+// Cryptography utilities
 
 import (
    "crypto/aes"

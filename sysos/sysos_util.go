@@ -1,4 +1,5 @@
 package sysos
+// System and OS utilities.
 
 import (
   "fmt"

@@ -1,4 +1,5 @@
 package fil
+// File utilities
 
 import (
   "os"

@@ -1,4 +1,5 @@
 package str
+// String utilities
 
 import (
   "log"
